@@ -1,0 +1,31 @@
+Christian's Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped me quickly find the error because of the focus on just the changes in the two files.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When there is an error I could just go back change by change until the error first occured and fix it instead of guessing where to start finding the bug.
+Also I could try out different approaches to a problems solution without loosing any of them.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+You are in control of the number of meaningful commits but you are also responsible for making regular commits without loosing any valuable content.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I guess Git wants to support the user in making a meaningful decision for any commit and systems like Google Docs want to save valuable storage space by only saving changes.
+
+5) How can you use the commands git log and git diff to view the history of files?
+
+git log shows me all the commits with its id and a short summary message of the changes made to a file. And git diff compares two commits by id and shows the specific changes made to a file.
+
+6) How might using version control make you more confident to make changes that could break something?
+
+Since version control makes it quite easy to return to a stable commit a change that could break something could quickly be identified and fixed.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+I'd like to setup my own repository and start developing a web project with multiple files to experience how easy it is to test different versions of the same project.
+
