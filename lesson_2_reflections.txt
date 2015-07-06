@@ -1,0 +1,10 @@
+Christian's Version Control Lesson 2 Reflections
+
+1) What happens when you initialize a repository? Why do you need to do it?
+
+A hidden directory .git is being created. I guess this will be required to track the files that should be under version control in this git repository.
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is for collecting files being added from the working directory to the git repository. It is like a preparation stage before finally making a commit to the repository.
+
