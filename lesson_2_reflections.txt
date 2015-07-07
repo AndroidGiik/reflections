@@ -12,3 +12,11 @@ The staging area is for collecting files being added from the working directory 
 
 Only add those modified files to the staging area which belong to a single logical change.
 
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches could be used to experiement with new ideas or break a bigger project into smaller pieces, so the master branch would always be uncluttered and functional.
+
+5) How do the diagrams help you visualize the branch structure?
+
+It visualizes the relationship between the commits in a tree like structure so you can easely judge the position of a single commit and the reachability of other commits from there.
+
