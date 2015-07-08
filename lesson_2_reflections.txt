@@ -20,3 +20,6 @@ Branches could be used to experiement with new ideas or break a bigger project i
 
 It visualizes the relationship between the commits in a tree like structure so you can easely judge the position of a single commit and the reachability of other commits from there.
 
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It's one branch consisting of all changes of the merged branches. Therefore we illustrate the two branches in the diagram as the parents of the new branch.
