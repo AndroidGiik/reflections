@@ -3,3 +3,8 @@ Christian's Version Control Lesson 3 Reflections
 1) When would you want to use a remote repository rather than keeping all your work local?
 
 A remote repository is good for sharing your work and collaborating with others.
+
+2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+There might be changes from third parties you do not want to automatically be synced into you local repository. Or you come across merge conflicts because of this automatism that slow you down in your current work.
+
