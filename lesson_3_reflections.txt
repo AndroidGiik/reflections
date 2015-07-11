@@ -8,3 +8,8 @@ A remote repository is good for sharing your work and collaborating with others.
 
 There might be changes from third parties you do not want to automatically be synced into you local repository. Or you come across merge conflicts because of this automatism that slow you down in your current work.
 
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks only exist on GitHub and are the way on GitHub to clone a repository. They can be used to work on a project where you are not permitted to push changes.
+Clones are copies of a repository. They are used to work on a remote project locally.
+Branches are basically labels for a specific commit history. The main branch is called the master branch. A branch can be used to experiement or work on a small task without breaking the master branch of the project.
