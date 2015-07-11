@@ -13,3 +13,7 @@ There might be changes from third parties you do not want to automatically be sy
 Forks only exist on GitHub and are the way on GitHub to clone a repository. They can be used to work on a project where you are not permitted to push changes.
 Clones are copies of a repository. They are used to work on a remote project locally.
 Branches are basically labels for a specific commit history. The main branch is called the master branch. A branch can be used to experiement or work on a small task without breaking the master branch of the project.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+One can pull an update from the remote repository before going offline and continue the work on the current local branch without the need to merge the two branches first. It enables you to stay quickly uptodate and at the same time postpone the time consuming merge work.
