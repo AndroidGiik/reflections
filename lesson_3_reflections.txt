@@ -21,3 +21,7 @@ One can pull an update from the remote repository before going offline and conti
 5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I could send my changes via email to my team or provide the changes on a file server. We could have meetings to discuss the changes or I just call and we discuss the changes via a screen sharing tool. Anyway, it would always involve more time and discipline to keep the workflow as clean as with git and GitHub.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Small changes with very little impact on the project could be done directly on the master branch especially if there are very few people collaborating with you. Otherwise I would always prefer to make changes on a separate branch first.
