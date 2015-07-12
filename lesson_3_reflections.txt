@@ -17,3 +17,7 @@ Branches are basically labels for a specific commit history. The main branch is 
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 One can pull an update from the remote repository before going offline and continue the work on the current local branch without the need to merge the two branches first. It enables you to stay quickly uptodate and at the same time postpone the time consuming merge work.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could send my changes via email to my team or provide the changes on a file server. We could have meetings to discuss the changes or I just call and we discuss the changes via a screen sharing tool. Anyway, it would always involve more time and discipline to keep the workflow as clean as with git and GitHub.
